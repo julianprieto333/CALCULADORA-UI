@@ -512,7 +512,7 @@ public class CALCULADORA_UI extends javax.swing.JFrame {
 
     private void SENOActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SENOActionPerformed
         // TODO add your handling code here:
-        numero("Math.sen((Math.PI/180)*");
+        numero("Math.sin((Math.PI/180)*");
     }//GEN-LAST:event_SENOActionPerformed
 
     private void COSENOActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_COSENOActionPerformed
